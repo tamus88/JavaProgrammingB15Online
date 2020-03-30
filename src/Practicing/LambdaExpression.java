@@ -1,6 +1,5 @@
 package Practicing;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -34,7 +33,6 @@ public class LambdaExpression {
         names.removeIf(removET);
         System.out.println(names);
         int[] nums = {1, 2, 3};
-
 
     }
 
